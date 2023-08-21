@@ -4,7 +4,7 @@ I am a computer science student at the University of Rome Tor Vergata.
 In this account I will publish notes and projects available to the public
 
 - 📫 To contact me, I have disclosed my telegram contact and my personal email
-- 🐈 I have a cat
+- 🐈 I have a cat & three kittens
 <!--
 **davidenox/davidenox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
