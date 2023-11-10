@@ -7,6 +7,9 @@ In this account I will publish notes and projects available to the public
 - 🐈 I have a cat & two kittens
 - 🔭 I’m currently working on my university notes, readable and cloneable from my own repository
 - 👯 I’m looking to collaborate on a [Telegram Bot](https://github.com/francosalvucci14/Lab25a-TG-bot) in collaboration with a colleague of mine
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidenox)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **davidenox/davidenox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
