@@ -10,7 +10,7 @@ In this account I will publish notes and projects available to the public
 - 👯 I’m looking to collaborate on a [Telegram Bot](https://github.com/francosalvucci14/Lab25a-TG-bot) in collaboration with a colleague of mine
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=davidenox&theme=dark&show_icons=true&card_widht=200" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=davidenox&theme=dark&show_icons=true&card_widht=100" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidenox&size_weight=0.5&count_weight=0.5&hide=HTML,Rich%20Text%20Format,Makefile&theme=dark&layout=compact&card_width=100" />
