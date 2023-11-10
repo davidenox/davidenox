@@ -9,7 +9,7 @@ In this account I will publish notes and projects available to the public
 - 🔭 I’m currently working on Sorting Algorithms in C and Python
 - 👯 I’m looking to collaborate on a [Telegram Bot](https://github.com/francosalvucci14/Lab25a-TG-bot) in collaboration with a colleague of mine
 
-<img src="https://myreadme.vercel.app/api/embed/davidenox?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/davidenox&theme=dark?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <!--
 **davidenox/davidenox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
