@@ -4,12 +4,11 @@ I am a computer science student at the University of Rome Tor Vergata.
 In this account I will publish notes and projects available to the public
 
 - 📫 To contact me, I have disclosed my telegram contact and my personal email
-- 🐈 I have a cat & two kittens
+- 🐈 I have so many cats
 - 🔭 I’m currently working on my university notes, readable from my own repository
 - 🔭 I’m currently working on a preparation about Web Dev
 - 🌱 I’m currently learning about vulnerability and defense of internet systems
-- 👯 I’m looking to collaborate on a [Telegram Bot](https://github.com/francosalvucci14/Lab25a-TG-bot) in collaboration with a colleague of mine
-
+- 👯 I'm looking to collaborate on a [Telegram Bot](https://github.com/francosalvucci14/Lab25a-TG-bot) with a university colleague of mine
 # My Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
