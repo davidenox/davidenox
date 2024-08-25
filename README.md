@@ -9,6 +9,8 @@ In this account I will publish notes and projects available to the public
 - 🔭 I’m currently working on a preparation about Web Dev
 - 🌱 I’m currently learning about vulnerability and defense of internet systems
 - 👯 I'm looking to collaborate on a [Telegram Bot](https://github.com/francosalvucci14/Lab25a-TG-bot) with a university colleague of mine
+- ⚡ Fun fact: letsgoski 🤙
+
 # My Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
