@@ -6,9 +6,10 @@ In this account I will publish notes and projects available to the public
 - 📫 To contact me, I have disclosed my telegram contact and my personal email
 - 🐈 I have so many cats
 - 🔭 I’m currently working on my university notes, readable from my own repository
-- 🔭 I’m currently working on a preparation about Web Dev
 - 🌱 I’m currently learning about vulnerability and defense of internet systems
-- 👯 I'm looking to collaborate on a [Telegram Bot](https://github.com/francosalvucci14/Lab25a-TG-bot) with a university colleague of mine
+- 🌱 I’m currently learning about Data Structures and Algorithms
+- 👯 I'm looking to collaborate on a Software Engineering project with my university colleagues
+- 👯 I collaborated on a [Telegram Bot](https://github.com/francosalvucci14/Lab25a-TG-bot) with a university colleague of mine
 - ⚡ Fun fact: letsgoski 🤙
 
 # My Stats
