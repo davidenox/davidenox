@@ -16,10 +16,10 @@ In this account I will publish notes and projects available to the public
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=davidenox&theme=dark&show_icons=true" /><br>
-  <a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidenox&size_weight=0&count_weight=1&hide=Rich%20Text%20Format,Makefile&theme=dark&layout=compact&card_width=320" />
-    <br>
-     <link src="https://tryhackme.com/badge/2923182"></link>
+  <br>
+  <link src="https://tryhackme.com/badge/2923182"></link>
 </a>
 </a>
 
