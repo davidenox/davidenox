@@ -8,7 +8,7 @@ In this account I will publish notes and projects available to the public
 - 🔭 I’m currently working on my university notes, readable from my own repository
 - 🌱 I’m currently learning about vulnerability and defense of internet systems
 - 🌱 I’m currently learning about Data Structures and Algorithms
-- 👯 I'm looking to collaborate on a Software Engineering project with my university colleagues
+- 👯 I collaborated on a Software Engineering project with my university colleagues
 - 👯 I collaborated on a [Telegram Bot](https://github.com/francosalvucci14/Lab25a-TG-bot) with a university colleague of mine
 - ⚡ Fun fact: letsgoski 🤙
 
